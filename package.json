@@ -1,0 +1,12 @@
+{
+  "name": "tools-search",
+  "private":true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "bsahd",
+  "license": "MIT",
+  "packageManager": "pnpm@10.9.0",
+  "type": "module"
+}
